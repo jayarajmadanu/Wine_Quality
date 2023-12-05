@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayaraj/OneDrive/Documents/DataScience/Projects/Wine_Quality/mlruns/0/42789dea6f37444b955a3c93c8d9308f/artifacts
+end_time: 1701760000404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42789dea6f37444b955a3c93c8d9308f
+run_name: persistent-chimp-448
+run_uuid: 42789dea6f37444b955a3c93c8d9308f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701759989946
+status: 3
+tags: []
+user_id: R.R.22.10.22

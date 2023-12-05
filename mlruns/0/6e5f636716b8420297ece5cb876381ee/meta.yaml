@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayaraj/OneDrive/Documents/DataScience/Projects/Wine_Quality/mlruns/0/6e5f636716b8420297ece5cb876381ee/artifacts
+end_time: 1701760569743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e5f636716b8420297ece5cb876381ee
+run_name: defiant-hare-936
+run_uuid: 6e5f636716b8420297ece5cb876381ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701760563844
+status: 3
+tags: []
+user_id: R.R.22.10.22

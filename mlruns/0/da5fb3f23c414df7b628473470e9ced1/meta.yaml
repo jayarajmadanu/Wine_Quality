@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayaraj/OneDrive/Documents/DataScience/Projects/Wine_Quality/mlruns/0/da5fb3f23c414df7b628473470e9ced1/artifacts
+end_time: 1701760301193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da5fb3f23c414df7b628473470e9ced1
+run_name: intrigued-trout-614
+run_uuid: da5fb3f23c414df7b628473470e9ced1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701760295480
+status: 3
+tags: []
+user_id: R.R.22.10.22
