@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayaraj/OneDrive/Documents/DataScience/Projects/Wine_Quality/mlruns/0/cf1962c6ac7b4f9581d14e10468197f2/artifacts
+end_time: 1701761363819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf1962c6ac7b4f9581d14e10468197f2
+run_name: languid-fish-651
+run_uuid: cf1962c6ac7b4f9581d14e10468197f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701761357996
+status: 3
+tags: []
+user_id: R.R.22.10.22
