@@ -1,6 +1,6 @@
 import setuptools
 
-with open("README.md", "rb", encoding="utf-8") as f:
+with open("README.md", "rb") as f:
     long_description = f.read()
 
 
