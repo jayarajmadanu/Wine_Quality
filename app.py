@@ -11,7 +11,7 @@ app = Flask(__name__, template_folder='templates', static_folder='static') # ini
 def homePage():
     return render_template("index.html")
 
-
+ 
 @app.route('/train',methods=['GET'])  # route to train the pipeline
 def training():
     os.system("py main.py")
